@@ -1,4 +1,4 @@
-CustomAI
+Custom AI
 ========
 
-Home of the CustomAI Mod for Minecraft!
+Home of the Custom AI Mod for Minecraft 1.7.10!
